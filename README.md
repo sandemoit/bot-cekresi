@@ -59,7 +59,7 @@ Daftar & dapatkan key di: https://rajaongkir.komerce.id
 
 - Jika salah format:
 ❌ Format salah. Contoh: /JNT JP1234567890
--Jika kurir/resi tidak ditemukan:
+- Jika kurir/resi tidak ditemukan:
 ❌ Resi tidak ditemukan atau kurir salah.
 
 ## 📄 Lisensi
