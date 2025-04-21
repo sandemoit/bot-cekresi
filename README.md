@@ -66,4 +66,3 @@ Daftar & dapatkan key di: https://rajaongkir.komerce.id
 MIT — bebas digunakan dan dimodifikasi sesuai kebutuhan.
 
 Made with ❤️ by Sandi
-Kalau kamu mau tambahin badge GitHub (stars, license, dll) atau logo biar lebih kece, tinggal bilang. Bisa gue tambahin juga.
